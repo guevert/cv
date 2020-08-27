@@ -1,6 +1,4 @@
-.undiv {
-    background-color: blueviolet;
-}
-.otrodiv {
-    background-color: chartreuse;
+.nav-wrapper {
+    display: flex;
+    justify-content: space-between;
 }
